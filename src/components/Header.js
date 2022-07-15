@@ -6,7 +6,7 @@ function Header() {
       <h1>Border radius generator</h1>
       <hr />
       <nav>
-        <a href="#" target="_blank">
+        <a href="https://github.com/Touzand/border-radius-generator" target="_blank">
           <i className="bi bi-github"></i> View on Github
         </a>
         <a href="https://touzand.github.io/portafolio" target="_blank">
