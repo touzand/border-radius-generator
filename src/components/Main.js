@@ -8,19 +8,8 @@ function Main() {
   const [defaultValueBottom, setDefaultValueBottom] = useState(30);
 
 const CopyToClipboar=()=> {
-  /* Get the text field */
 var copyText = document.getElementById("copy");
-
-  /* Select the text field */
-  //copyText.select();
-  //copytext.setselectionrange(0, 99999); [> for mobile devices <]
-
-  /* Copy the text inside the text field */
   navigator.clipboard.writeText(`border-radius:${copyText.textContent};`);
-
-  /* Alert the copied text */
-  //alert("Copied the text: " + copyText.textContent);
-
 }
 
   const handleChangeRight = (e) => {
