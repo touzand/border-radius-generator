@@ -1,6 +1,6 @@
 # `Border-radius-generator` can do that?
 
-Esta ferramenta irá ajudá-lo a gerar rápida e facilmente o código `border-radius` que você precisa. apenas arrastando os input range de um lado para o outro você poderá editar a figura de exemplo e ao mesmo tempo gerar o código que você precisa
+You may quickly and simply create the necessary "border-radius" code with the aid of this tool. You may update the sample figure and produce the necessary code by simply moving the input range from one side to the other.
 
 > [Here](https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius) is an article giving you some background information about the whole border-radius stuff.
 
