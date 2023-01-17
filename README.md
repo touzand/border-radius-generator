@@ -10,4 +10,4 @@ You may quickly and simply create the necessary "border-radius" code with the ai
 
 <hr/>
 
-Please visit this site to use a knor more abour this app - https://touzand.github.io/border-radius-generator/
+Please visit this site to use a knor more abour this app - [Border-radius-generator](https://touzand.github.io/border-radius-generator/)
